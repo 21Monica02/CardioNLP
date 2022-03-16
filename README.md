@@ -1,1 +1,1 @@
-# CardioNLP
+This is an NLP project on cardiac MPS
