@@ -5,21 +5,24 @@ Following the training session on Friday, 06th May 2022, we will be placing a gr
 
 ```
 Z:\Medical Physics & Clinical Engineering\Nuclear Medicine\Monica\Cardiac NLP
-│   README.md
-│   file001.txt    
-│
-└───folder1
-│   │   file011.txt
-│   │   file012.txt
-│   │
-│   └───subfolder1
-│       │   file111.txt
-│       │   file112.txt
-│       │   ...
-│   
-└───folder2
-    │   file021.txt
-    │   file022.txt
+└───Z:\Medical Physics & Clinical Engineering\Nuclear Medicine\Monica\Cardiac NLP\Folder 1
+│   │   L1
+│   │   L2
+│   │   L3
+│   │   L4
+│   │   L5
+└───Z:\Medical Physics & Clinical Engineering\Nuclear Medicine\Monica\Cardiac NLP\Folder 2
+    │   L6
+    │   L7
+│   │   L8
+│   │   L9
+│   │   L10    
+└───Z:\Medical Physics & Clinical Engineering\Nuclear Medicine\Monica\Cardiac NLP\Folder 3
+│   │   L11
+│   │   L12
+│   │   L13
+│   │   L14
+│   │   L15
 ```
 
 | Session      | Date |
