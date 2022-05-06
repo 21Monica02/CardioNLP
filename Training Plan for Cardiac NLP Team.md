@@ -34,7 +34,7 @@ Z:\Medical Physics & Clinical Engineering\Nuclear Medicine\Monica\Cardiac NLP
 
 The main aims of these sessions are:
 
-  * Get everyone familiarised with Markup
+  * Get everyone familiarised with [Markup](www.getmarkup.com)
   * Get feedback on the [config file](https://github.com/21Monica02/CardioNLP/blob/main/annotation.conf)
 
   * Update the config file based on feedback in time for the next session
