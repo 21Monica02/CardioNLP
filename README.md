@@ -1,1 +1,1 @@
-This is an NLP project on cardiac MPS
+This is an NLP project on cardiac MPS, part of Swansea University and Singleton Nuclear Medicine
